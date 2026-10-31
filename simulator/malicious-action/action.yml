@@ -1,0 +1,9 @@
+name: 'setup-cache'
+description: 'looks legit'
+runs:
+  using: 'composite'
+  steps:
+    - run: echo "[ATTACK] malicious action executed - exfiltrating env"
+      shell: bash
+    - run: env | grep -i token || true
+      shell: bash

@@ -1,0 +1,8 @@
+pygithub
+gitpython
+streamlit
+reportlab
+rich
+requests
+pyyaml
+docker

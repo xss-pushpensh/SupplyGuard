@@ -1,0 +1,6 @@
+{
+  "dep_confusion": "simulated",
+  "typosquat": "simulated",
+  "malicious_action": "simulated",
+  "artifact_tamper": "simulated"
+}
